@@ -1,5 +1,7 @@
 # RPG de Mesa com Mestre de RPG Inteligente (Google Generative AI)
 
+<img src="/logo-questreader.png" alt="QuestReader" height="125">
+
 ## Descrição:
 
 Este repositório contém o código Python para um RPG de mesa com um Mestre de RPG inteligente, utilizando a API Generative AI do Google. O Mestre de RPG é guiado por um conjunto de instruções e configurações e gera respostas em formato JSON, que são convertidas em texto Markdown e exibidas ao jogador.
