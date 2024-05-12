@@ -22,7 +22,7 @@ Este repositório contém o código Python para um RPG de mesa com um Mestre de 
 
 1. Clone este repositório em seu Google Colab.
 2. Abra o notebook RPG_Mesa_Inteligente.ipynb.
-3. Substitua YOUR_SECRET_KEY_CLA na célula 7 pela sua API Key do Google Generative AI.
+3. Crie o SECRET_KEY em Secrets com a sua API Key do Google Generative AI.
 4. Execute as células do notebook na ordem.
 5. Siga as instruções na tela para iniciar a aventura.
 
