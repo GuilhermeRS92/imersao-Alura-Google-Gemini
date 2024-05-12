@@ -64,6 +64,7 @@ para enviar um pull request com suas alterações.
 ## Agradecimentos
 
 Ao Google AI por fornecer a API Generative AI.
+E a Alura e a FIAP pela Imersão nessa tecnologia.
 
 ## Licença
 
